@@ -7,8 +7,8 @@
     <ProjectGuid>{FD58BBFF-6AD6-4C7D-BDA1-C4BCFCEA655E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <LangVersion>latest</LangVersion>
-    <RootNamespace>Test.SuperOfficeDI</RootNamespace>
-    <AssemblyName>Test.SuperOfficeDI</AssemblyName>
+    <RootNamespace>DevNet.v10.Example</RootNamespace>
+    <AssemblyName>DevNet.v10.Example</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

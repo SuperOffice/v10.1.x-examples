@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using SuperOffice.Configuration;
 using SuperOffice.Security.Principal;
 
-namespace Test.SuperOfficeDI
+namespace DevNet.v10.Example
 {
     internal class ContextInitializer : IContextInitializer
     {
